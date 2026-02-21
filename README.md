@@ -70,6 +70,7 @@ TaskManager/
 
 ### 1️⃣ Clone Repository
 git clone https://github.com/Bulletguitarist/TaskManager.git
+
 cd TaskManager
 ---
 
